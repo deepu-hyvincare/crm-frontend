@@ -30,7 +30,7 @@ import { Container, Row,Col, Form, Button } from "react-bootstrap";
       <hr/>
       <Row>
           <Col>
-          <a href="#!" onClick={()=>formSwitcher('login')}>Forgot Password</a>
+          <a href="#!" onClick={()=>formSwitcher('login')}>Login Page</a>
           </Col>
       </Row>
     </Container>
